@@ -4,6 +4,17 @@ Empowering Farmers with Better Market Rates — A digital platform that connects
 
 ---
 
+
+
+## 🖼️ Live Preview
+
+Here's a look at the homepage of the Fair Trade Agri-Portal:
+
+<p align="center">
+  <img src="images/screenshot-homepage.png" alt="Fair Trade Agri-Portal Homepage" width="700"/>
+</p>
+
+
 ## 📌 Project Overview
 
 The **Fair Trade Agri-Portal** is a web-based application designed to eliminate middlemen and empower farmers by allowing them to sell their produce directly to buyers. The portal ensures fair pricing, transparency, and streamlined transactions.
